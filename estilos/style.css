@@ -96,7 +96,7 @@ div.campo > input {
     padding: 4px;
    /* transform: translateY(-10px);*/
 }
-/*
+
 div.campo > input:focus-within {
     background-color: white;
     border: none;
@@ -139,4 +139,4 @@ form > a.botao:hover {
 
 form > a.botao > i {
     font-size: 0.8em;
-} */
+} 
